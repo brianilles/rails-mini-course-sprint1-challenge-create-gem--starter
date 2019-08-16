@@ -13,3 +13,4 @@ module Publishable
     published_at.present?
   end
 end
+   
